@@ -11,7 +11,7 @@
 - [2.基礎安裝](#2)
 - [3.實作筆記：Shell Script 開發](#3)
   - [3.1.待補](#3.1)
-- [4.實作筆記：Docker 研究](#4)
+- [4.實作筆記：Docker WSL 安裝](#4)
   - [4.1.WSL2 本機安裝確認無問題](#4.1)
   - [4.2.Ubuntu 如何把 sudo 拿掉](#4.2)
   - [4.3.Visaul Studio Code 如何連線 Docker](#4.3)
@@ -26,7 +26,8 @@
 > 微軟體系提供電腦都是微軟，開發系統沒有虛擬機時，可以先用類 unix 進行開發測試，確認沒問題，可以上 Linux 正式環境。
 
 1. 控制台 -> 開啟或關閉 Windows 功能
-2. 適用 Linux 的 Windows 子系統(有些電腦不一樣) ![子系統開啟](./figure/WSL開啟.PNG)
+2. 適用 Linux 的 Windows 子系統(有些電腦不一樣)<br>
+   ![子系統開啟](./figure/WSL開啟.PNG)
 3. 安裝 WSL 的 Ubuntu，有兩種方法一種是
 
    1. Microsoft Store -> 搜尋 Ubuntu -> 安裝 -> 電腦重啟
